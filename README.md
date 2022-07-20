@@ -18,4 +18,4 @@ Open Weather API
 Made with ❤️️ by Krista Francis
 
 
-<img width="1440" alt="Screen Shot 2022-07-13 at 7 48 29 PM" src="https://user-images.githubusercontent.com/106784320/180070419-8286fc48-0776-425f-8bf8-36bdaefcc1e9.png">
+<img width="1440" alt="Screen Shot 2022-07-20 at 3 53 06 PM" src="https://user-images.githubusercontent.com/106784320/180071044-65dcb42f-d038-4fae-9127-0e67df89ec64.png">
